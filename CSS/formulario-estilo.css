@@ -1,7 +1,7 @@
 .caixa_formulario {
     background: white;
     width: 400px;
-    height: 300px;
+    height: fit-content;
     color: palevioletred;
     display: flex;
     flex-direction: column;
@@ -31,6 +31,7 @@
     width: 120px;
     align-self: center;
     cursor: pointer;
+    margin: 10px;
 }
 
 .formulario input {

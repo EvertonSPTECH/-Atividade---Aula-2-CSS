@@ -59,7 +59,9 @@ a {
 
 .banner {
     background-image: url(/site_institucional/IMG/bg-jelly-fish-para_outras_pags.png);
-    height: 500px;
+    width: 100%;
+    height: 450px;
+    background-size: cover;
     color: #fff;
     display: flex;
 }
